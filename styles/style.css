@@ -1,1 +1,59 @@
+<<<<<<< HEAD
 
+=======
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.techniques {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.cards {
+  max-width: 920px;
+  display: flex;
+  flex-flow: row wrap;
+  gap: 0 100px;
+}
+
+.cards__item {
+  width: 240px;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+}
+
+.cards__image {
+  margin: 0 40px;
+  width: 160px;
+  height: 160px;
+  background-size: cover;
+  border-radius: 80px;
+  overflow: hidden;
+}
+
+.cards__title {
+  margin-top: 60px;
+  text-align: center;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.cards__description {
+  text-align: center;
+  margin-top: 16px;
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+}
+>>>>>>> 6e085d7 (first project with sorted files by BEM)

@@ -5,4 +5,8 @@
   position: absolute;
   top: 64px;
   right: 0;
+<<<<<<< HEAD
+=======
+  animation: rotation 20s infinite linear;
+>>>>>>> 6e085d7 (first project with sorted files by BEM)
 }
