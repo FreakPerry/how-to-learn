@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 @keyframes rotation {
@@ -11,49 +12,73 @@
 }
 
 .techniques {
+=======
+.khan__container {
+>>>>>>> fb1a859 (without resources block)
   width: 80%;
-  margin: 0 auto;
-  display: flex;
-  flex-flow: column nowrap;
-  align-items: center;
+  margin: auto;
 }
 
-.cards {
-  max-width: 920px;
-  display: flex;
-  flex-flow: row wrap;
-  gap: 0 100px;
+.khan__author {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
 }
 
-.cards__item {
-  width: 240px;
-  margin-top: 60px;
-  display: flex;
-  flex-direction: column;
+.khan__title {
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
 }
 
-.cards__image {
-  margin: 0 40px;
-  width: 160px;
-  height: 160px;
-  background-size: cover;
-  border-radius: 80px;
-  overflow: hidden;
+.khan__quote {
+  width: 790px;
+  margin-top: 50px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
 }
 
-.cards__title {
-  margin-top: 60px;
-  text-align: center;
+.khan__quote-author {
+  margin-top: 36px;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
 }
 
-.cards__description {
-  text-align: center;
-  margin-top: 16px;
-  line-height: 23px;
-  font-size: 18px;
+.khan__quote-author-subline {
+  margin-top: 10px;
+  line-height: 1.15;
+  font-size: 24px;
   font-weight: normal;
 }
+<<<<<<< HEAD
 >>>>>>> 6e085d7 (first project with sorted files by BEM)
+=======
+
+.khan__buy-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #2f80ed;
+  text-decoration: none;
+}
+
+.khan__book-container {
+  margin-top: 68px;
+  display: flex;
+}
+
+.khan__book-pic {
+  width: 620px;
+  height: 608px;
+  margin-right: 48px;
+}
+
+.cover {
+  object-fit: cover;
+}
+
+.khan__buy-link {
+}
+>>>>>>> fb1a859 (without resources block)
