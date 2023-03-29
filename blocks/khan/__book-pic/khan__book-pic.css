@@ -3,3 +3,8 @@
   height: 608px;
   margin-right: 48px;
 }
+
+.khan__book-pic img {
+  width: 620px;
+  object-fit: cover;
+}
