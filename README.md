@@ -16,3 +16,7 @@
 ### CSS
 
 ---
+
+## Ссылка на сайт
+
+Проект размещен на [GitHub Pages](https://freakperry.github.io/how-to-learn/) и доступен по ссылке.
