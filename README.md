@@ -21,20 +21,6 @@ It demonstrates fundamental skills in HTML and CSS, layout using Flexbox, smooth
 
 ---
 
-## 📁 Project Structure
-
-how-to-learn/
-├── blocks/           # BEM-structured CSS blocks
-├── images/           # Images and assets
-├── pages/            # Main page styling
-├── vendor/           # Third-party styles (if any)
-├── .editorconfig     # Editor settings
-├── .nojekyll         # Disables Jekyll on GitHub Pages
-├── index.html        # Main HTML file
-└── README.md         # Project documentation
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
