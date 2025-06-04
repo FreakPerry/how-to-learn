@@ -13,11 +13,11 @@ It demonstrates fundamental skills in HTML and CSS, layout using Flexbox, smooth
 
 ## 🛠 Technologies Used
 
-- HTML5  
-- CSS3  
-- Flexbox  
-- CSS animations and transitions  
-- BEM (Block Element Modifier) methodology 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-Layout-orange?style=flat)
+![Grid Layout](https://img.shields.io/badge/CSS%20Grid-Layout-28a745?style=flat)
+![BEM](https://img.shields.io/badge/BEM-Methodology-blue?style=flat)
 
 ---
 
