@@ -17,8 +17,7 @@ It demonstrates fundamental skills in HTML and CSS, layout using Flexbox, smooth
 - CSS3  
 - Flexbox  
 - CSS animations and transitions  
-- BEM (Block Element Modifier) methodology  
-- Responsive layout
+- BEM (Block Element Modifier) methodology 
 
 ---
 
